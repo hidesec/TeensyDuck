@@ -1,4 +1,4 @@
-//edite: @hidesec (github)
+//edited: @hidesec (github)
 
 #include <HID-Project.h>
 #include <HID-Settings.h>
