@@ -1,2 +1,2 @@
 # TeensyDuck
-Rubber Duck low cost
+Script ONLY!
