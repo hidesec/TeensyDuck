@@ -1,2 +1,2 @@
 # TeensyDuck
-Script ONLY!
+Payload ONLY!
